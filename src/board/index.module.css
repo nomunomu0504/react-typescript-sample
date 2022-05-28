@@ -1,0 +1,15 @@
+.root{
+}
+
+.root__status {
+  margin-bottom: 10px;
+}
+
+.root__board-row {
+}
+
+.root__board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}

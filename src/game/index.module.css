@@ -1,0 +1,20 @@
+.root {
+}
+
+.root__ol,
+.root__ul {
+  padding-left: 30px;
+}
+
+.root__game {
+  display: flex;
+  flex-direction: row;
+}
+
+.root__game--board {
+
+}
+
+.root__game--info {
+  margin-left: 20px;
+}
